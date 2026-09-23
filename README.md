@@ -16,7 +16,7 @@ Higher Technician in Data Analysis & AI, and Full-Stack Developer
 ### 🛠️ Tech Stack
 
 **Languages & Frameworks:**
-- `Python` | `JavaScript` | `TypeScript` | `Java`| `HTML5` | `CSS3` | `Bootstrap` | `Node.js` | `Nets.js` | `React.js`| `PHP` | `NoSQL` | `SQL` | `GDScript (Godot Engine)` 
+- `Python` | `JavaScript` | `TypeScript` | `Java`| `HTML5` | `CSS3` | `Bootstrap` | `Node.js` | `Nest.js` | `React.js`| `PHP` | `NoSQL` | `SQL` | `GDScript (Godot Engine)` 
 
 **Data Science & Machine Learning:**
 - `Machine Learning` | `Deep Learning` | `MySQL` | `SQL Server`
